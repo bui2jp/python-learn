@@ -4,5 +4,5 @@
 
 ## version
 ```
-python -version
+python -V
 ```
