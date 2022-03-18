@@ -17,7 +17,7 @@ class Word(object):
         return self.text.lower() == word.text.lower()
 
 w = Word('aaa')
-w2 = Word('aaa')
+w2 = Word('bbb')
 print(w)
 print(len(w))
 
